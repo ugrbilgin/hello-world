@@ -1,2 +1,5 @@
 # hello-world
-*inster des. here*
+*instert des. here*
+
+
+print("hello-world!");
